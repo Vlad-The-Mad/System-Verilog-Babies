@@ -1,5 +1,5 @@
 module testbenchmux();
-logic select, line0, line1, out;
+logic select, [1:0] lines, out;
 
 multiplexer MuxExample(select, lines, out);
 
