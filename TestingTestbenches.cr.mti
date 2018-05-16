@@ -8,7 +8,6 @@ Top level modules:
 } {} {}} /nfs/stak/users/veselyv/ECE271/System-Verilog-Babies/testbench.sv {0 {vlog -work work -vopt -sv -stats=none /nfs/stak/users/veselyv/ECE271/System-Verilog-Babies/testbench.sv
 Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 12 2016
 -- Compiling module testbenchmux
-** Error: (vlog-13069) /nfs/stak/users/veselyv/ECE271/System-Verilog-Babies/testbench.sv(2): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER or NETTYPE_IDENTIFIER.
-** Error: (vlog-13069) /nfs/stak/users/veselyv/ECE271/System-Verilog-Babies/testbench.sv(7): near ",": syntax error, unexpected ',', expecting ';'.
+** Error: (vlog-13069) /nfs/stak/users/veselyv/ECE271/System-Verilog-Babies/testbench.sv(8): near ";": syntax error, unexpected ';', expecting ')'.
 
-} {4.0 6.0} {}}
+} {4.0 5.0} {}}
